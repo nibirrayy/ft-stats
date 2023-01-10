@@ -1,0 +1,6 @@
+database:
+  hostname: "10.88.0.3"
+  db: "pl_data"
+  username: "user"
+  pwd: "password"
+  port_id: "5432"
