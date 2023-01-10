@@ -1,0 +1,25 @@
+{
+  "name": "ft-stats",
+  "version": "1.0.0",
+  "description": "A football stat api",
+  "main": "app.js",
+  "scripts": {
+    "dev-start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nibirrayy/ft-stats.git"
+  },
+  "author": "Nibir Ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nibirrayy/ft-stats/issues"
+  },
+  "homepage": "https://github.com/nibirrayy/ft-stats#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
